@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "province": "Ontario"
+        },
+        {
+            "province": "Alberta"
+        },
+        {
+            "province": "Manitoba"
+        },
+        {
+            "province": "Nova Scotia"
+        },
+        {
+            "province": "Yukon"
+        },
+        {
+            "province": "Newfoundland and Labrador"
+        },
+        {
+            "province": "Northwest territories"
+        },
+        {
+            "province": "Nunavut"
+        },
+        {
+            "province": "Quebec"
+        },
+        {
+            "province": "Prince Edward Island"
+        },
+        {
+            "province": "New Brunswick"
+        },
+        {
+            "province": "Saskatchewan"
+        },
+        {
+            "province": "British Columbia"
+        }
+    ]
+}

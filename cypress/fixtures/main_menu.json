@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "menu": "About",
+            "header" : "About Consumers Energy Management Inc.",
+            "url":"/about-us/"
+        },
+        {
+            "menu": "Products",
+            "header" : "Products",
+            "url":"/products/"
+        },
+        {
+            "menu": "Services",
+            "header" : "Services",
+            "url":"/services/"
+        },
+        {
+            "menu": "Tools",
+            "header" : "Tools",
+            "url":"/tools-resources/"
+        },
+        {
+            "menu": "Promotions",
+            "header" : "Promotions",
+            "url":"/promotions/"
+        },
+        {
+            "menu": "Careers",
+            "header" : "Careers",
+            "url":"/careers/"
+        },
+        {
+            "menu": "Blog",
+            "header" : "Blog",
+            "url":"/blog/"
+        },
+        {
+            "menu": "FAQs",
+            "header" : "Frequently Asked Questions",
+            "url":"/faq/"
+        },
+        {
+            "menu": "Contact",
+            "header" : "Contact us",
+            "url":"/contact-us/"
+        }
+    ]
+}
