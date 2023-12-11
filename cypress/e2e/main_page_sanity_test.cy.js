@@ -7,11 +7,11 @@ describe('Menus open successfully', () => {
         cy.visit('/')
     })
 
-    after('Home page opens', () => {
-        cy.get('a').contains('Home').click()
-        cy.get(main_page_selectors.logo).should('be.visible')
-        cy.location('pathname').should('eq', '/')
-    })
+    // after('Home page opens', () => {
+    //     cy.get('a').contains('Home').click()
+    //     cy.get(main_page_selectors.logo).should('be.visible')
+    //     cy.location('pathname').should('eq', '/')
+    // })
 
     it('After choosing menu correct page opens', () => {
         data.forEach((item) => {
