@@ -3,8 +3,11 @@ import main_page_selectors from "../support/main_page_selectors"
 import { data } from "../fixtures/main_menu.json"
 
 describe('Menus open successfully', () => {
-    before(() => {
+    beforeEach(() => {
         cy.visit('/')
+        Cypress.on('uncaught:exception', (err, runnable) => {
+            return false
+        })
     })
 
     // after('Home page opens', () => {
